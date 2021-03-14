@@ -3,6 +3,7 @@ RENCANA BARU
 Olahraga minimal 30 menit sehari
   * Pagi/Sore
   * Olahraga ringan
-Mandi 2x sehari
+    ^ Sit up
+    ^ Push up
 Bangun pagi
  * jam setengah 4
